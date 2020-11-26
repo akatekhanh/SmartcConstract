@@ -1,0 +1,39 @@
+=============== Oct 22, 2020 (KST) ===============
+18:35:43.385913 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:35:43.401977 db@open opening
+18:35:43.404400 version@stat F·[] S·0B[] Sc·[]
+18:35:43.420820 db@janitor F·2 G·0
+18:35:43.420854 db@open done T·18.851513ms
+=============== Nov 16, 2020 (UTC) ===============
+12:12:51.023404 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:12:51.023604 version@stat F·[] S·0B[] Sc·[]
+12:12:51.023657 db@open opening
+12:12:51.023787 journal@recovery F·1
+12:12:51.025021 journal@recovery recovering @1
+12:12:51.025765 version@stat F·[] S·0B[] Sc·[]
+12:12:51.030312 db@janitor F·2 G·0
+12:12:51.030430 db@open done T·6.7327ms
+=============== Nov 18, 2020 (UTC) ===============
+04:40:52.762927 db@close closing
+04:40:52.763262 db@close done T·419.9µs
+=============== Nov 18, 2020 (UTC) ===============
+12:06:37.968936 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:06:37.969209 version@stat F·[] S·0B[] Sc·[]
+12:06:37.969251 db@open opening
+12:06:37.969383 journal@recovery F·1
+12:06:37.969941 journal@recovery recovering @2
+12:06:37.973191 version@stat F·[] S·0B[] Sc·[]
+12:06:38.001079 db@janitor F·2 G·0
+12:06:38.001150 db@open done T·31.8477ms
+=============== Nov 19, 2020 (UTC) ===============
+06:43:13.501135 db@close closing
+06:43:13.503441 db@close done T·2.3082ms
+=============== Nov 23, 2020 (UTC) ===============
+12:19:14.928842 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:19:14.929752 version@stat F·[] S·0B[] Sc·[]
+12:19:14.929853 db@open opening
+12:19:14.930047 journal@recovery F·1
+12:19:14.930781 journal@recovery recovering @4
+12:19:14.932799 version@stat F·[] S·0B[] Sc·[]
+12:19:14.946005 db@janitor F·2 G·0
+12:19:14.946099 db@open done T·16.1128ms

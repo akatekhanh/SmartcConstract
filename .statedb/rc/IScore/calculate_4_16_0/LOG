@@ -1,0 +1,39 @@
+=============== Oct 22, 2020 (KST) ===============
+18:35:43.328775 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:35:43.345114 db@open opening
+18:35:43.345635 version@stat F·[] S·0B[] Sc·[]
+18:35:43.356190 db@janitor F·2 G·0
+18:35:43.356220 db@open done T·11.07925ms
+=============== Nov 16, 2020 (UTC) ===============
+12:12:51.005920 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:12:51.006327 version@stat F·[] S·0B[] Sc·[]
+12:12:51.006358 db@open opening
+12:12:51.006480 journal@recovery F·1
+12:12:51.006876 journal@recovery recovering @1
+12:12:51.007478 version@stat F·[] S·0B[] Sc·[]
+12:12:51.012705 db@janitor F·2 G·0
+12:12:51.012780 db@open done T·6.38ms
+=============== Nov 18, 2020 (UTC) ===============
+04:40:52.760187 db@close closing
+04:40:52.762654 db@close done T·2.4674ms
+=============== Nov 18, 2020 (UTC) ===============
+12:06:37.939523 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:06:37.939864 version@stat F·[] S·0B[] Sc·[]
+12:06:37.939897 db@open opening
+12:06:37.939991 journal@recovery F·1
+12:06:37.943640 journal@recovery recovering @2
+12:06:37.948704 version@stat F·[] S·0B[] Sc·[]
+12:06:37.958030 db@janitor F·2 G·0
+12:06:37.958130 db@open done T·18.1887ms
+=============== Nov 19, 2020 (UTC) ===============
+06:43:13.498432 db@close closing
+06:43:13.499701 db@close done T·1.2635ms
+=============== Nov 23, 2020 (UTC) ===============
+12:19:14.866541 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:19:14.868370 version@stat F·[] S·0B[] Sc·[]
+12:19:14.868408 db@open opening
+12:19:14.868579 journal@recovery F·1
+12:19:14.868981 journal@recovery recovering @4
+12:19:14.869606 version@stat F·[] S·0B[] Sc·[]
+12:19:14.876548 db@janitor F·2 G·0
+12:19:14.876644 db@open done T·8.1294ms

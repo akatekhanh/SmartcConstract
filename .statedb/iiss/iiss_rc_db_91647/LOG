@@ -1,0 +1,16 @@
+2020/11/26-05:38:31.041642 139797806176000 Recovering log #6
+2020/11/26-05:38:31.041738 139797806176000 Level-0 table #8: started
+2020/11/26-05:38:31.043921 139797806176000 Level-0 table #8: 212 bytes OK
+2020/11/26-05:38:31.048649 139797806176000 Delete type=3 #4
+2020/11/26-05:38:31.048734 139797806176000 Delete type=0 #6
+=============== Nov 26, 2020 (UTC) ===============
+05:38:31.059643 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:38:31.059862 version@stat F·[2] S·688B[688B] Sc·[0.50]
+05:38:31.059895 db@open opening
+05:38:31.059981 journal@recovery F·1
+05:38:31.060603 journal@recovery recovering @9
+05:38:31.061281 version@stat F·[2] S·688B[688B] Sc·[0.50]
+05:38:31.070373 db@janitor F·4 G·0
+05:38:31.070439 db@open done T·10.5027ms
+05:38:31.091833 db@close closing
+05:38:31.091931 db@close done T·97.7µs

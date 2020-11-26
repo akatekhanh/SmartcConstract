@@ -1,0 +1,39 @@
+=============== Oct 22, 2020 (KST) ===============
+18:35:48.616529 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:35:48.634101 db@open opening
+18:35:48.636670 version@stat F·[] S·0B[] Sc·[]
+18:35:48.658465 db@janitor F·2 G·0
+18:35:48.658554 db@open done T·24.421753ms
+=============== Nov 16, 2020 (UTC) ===============
+12:12:51.403605 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:12:51.403890 version@stat F·[] S·0B[] Sc·[]
+12:12:51.403921 db@open opening
+12:12:51.404020 journal@recovery F·1
+12:12:51.404489 journal@recovery recovering @1
+12:12:51.405090 version@stat F·[] S·0B[] Sc·[]
+12:12:51.410650 db@janitor F·2 G·0
+12:12:51.410842 db@open done T·6.877ms
+=============== Nov 18, 2020 (UTC) ===============
+04:40:52.777561 db@close closing
+04:40:52.778714 db@close done T·1.149ms
+=============== Nov 18, 2020 (UTC) ===============
+12:06:38.426658 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:06:38.427100 version@stat F·[] S·0B[] Sc·[]
+12:06:38.427262 db@open opening
+12:06:38.427628 journal@recovery F·1
+12:06:38.428161 journal@recovery recovering @2
+12:06:38.428700 version@stat F·[] S·0B[] Sc·[]
+12:06:38.435720 db@janitor F·2 G·0
+12:06:38.435831 db@open done T·8.5127ms
+=============== Nov 19, 2020 (UTC) ===============
+06:43:13.520497 db@close closing
+06:43:13.520693 db@close done T·193.5µs
+=============== Nov 23, 2020 (UTC) ===============
+12:19:15.747699 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:19:15.752475 version@stat F·[] S·0B[] Sc·[]
+12:19:15.752512 db@open opening
+12:19:15.752620 journal@recovery F·1
+12:19:15.765683 journal@recovery recovering @4
+12:19:15.778065 version@stat F·[] S·0B[] Sc·[]
+12:19:15.784052 db@janitor F·2 G·0
+12:19:15.784102 db@open done T·31.5494ms
