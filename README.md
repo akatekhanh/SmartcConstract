@@ -1,1 +1,1 @@
-# SmartcConstract
+# SmartConstract
